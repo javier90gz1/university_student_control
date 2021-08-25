@@ -1,0 +1,10 @@
+export const API="http://localhost:3000/api/";
+export const API_STUDENT = API+'students/';
+export const API_GROUP = API+'groups/';
+export const API_ROLE = API+'roles/';
+export const API_USER = API+'users/';
+export const API_CHECK_USER_NAME = API_USER + 'user_name/';
+export const API_CITY = API+'cities/';
+export const API_LOGIN = API+'login/';
+export const API_LOGS = API+'logs/';
+export const API_PROFESSOR = API+'professors/';
